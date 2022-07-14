@@ -12,32 +12,44 @@ Hi I'm Fay, I am currently an undergraduate student fron Uni of Warwick, Nice to
 
 I like _**archery**_ and _**rifle shooting**_. 
 
+![archery](../archery.jpg)
+
+![shooting](../shooting.jpg)
+
 ## My favourite things in order
-- Colours
+- _**Colours**_
 	- Navy blue 
-	- Pink
+	- Pinky purple 
 	- White
-- Anmials
-	1. dog
+- _**Anmials**_
 	1. Cat
-	
-[My LinkedIn link](https://www.linkedin.com/in/fay-f-3a3b55221/)
+	1. Sloths (sleep a lot)
 
-![landscape](landscape.jpg)
+![cat1](../cat1.jpg)
 
-> practices make perfect
+![sloths](../sloths.jpg)
+ 
+## I also love photography..
+
+![1](../1.jpg)
+![1](../2.jpg)
+![1](../3.jpg)
+
+
+## I quote I really like 	
+> Kindness is one thing you can't give away. It always comes back
 >
-> Fay
+> George Skolsky
+
+=>
 
 ```
-## My favourite things in order
-- Colours
-	- Navy blue 
-	- Pink
-	- White
-- Anmials
-	1. dog
-	1. Cat
+## I quote I really like 	
+> Kindness is one thing you can't give away. It always comes back
+>
+> George Skolsky
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rfscVS0vtbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YyAuFiIv-V4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[My LinkedIn link](https://www.linkedin.com/in/fay-f-3a3b55221/) 
