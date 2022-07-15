@@ -1,5 +1,5 @@
 ---
-title: "Fruitt :)"
+title: "Fruitt"
 date: 2022-07-14T14:56:59+01:00
 tags: []
 featured_image: ""
@@ -20,6 +20,12 @@ description: ""
 *pinky peach!!!*
 
 ![peach](../peach.jpg)
+
+
+{{<}}
+
+
+
 
 ---
 title: "cuisine"
